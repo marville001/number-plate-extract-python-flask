@@ -181,4 +181,4 @@ def process_image():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, host="192.168.0.188", port=2040)
+    app.run(debug=True, host="172.16.59.107", port=2040)
